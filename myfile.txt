@@ -1,3 +1,3 @@
-("hey frdss")
-"how are you?")
-("my self git")
+print("hey frdss")
+print("how are you?")
+print("my self git")
