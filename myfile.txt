@@ -1,2 +1,2 @@
-hey frdss
-how are you?
+print("hey frdss")
+print("how are you?")
